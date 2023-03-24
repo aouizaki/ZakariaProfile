@@ -67,9 +67,6 @@ ul li a:hover{
     font-size: 22px;
     transition: .6s;
 }
-span{
-    color: orangered;
-}
 .info{
     width: 800px;
     padding: 300px 40px 0;
